@@ -60,8 +60,10 @@ Participate in West Bengal Tech Meetups and connect with Software Engineers in W
 - **Instagram:** [instagram.com/bong.dev_official](https://instagram.com/bong.dev_official) 
 
 
-<h3>👉 Join our Discord server: <a href="https://discord.gg/GUs8hqa94K" target="blank_">[Click here]</a></h3>
-<img alt="Discord" src="https://img.shields.io/discord/1043346794286948373">
+<h3>👉 <a href="https://discord.gg/GUs8hqa94K" target="blank_">[Join]</a> our Discord server now !</h3>
+
+<img alt="Discord" src="https://img.shields.io/discord/1043346794286948373?logo=discord&label=Meet%20the%20fellow%20members&labelColor=white&link=https%3A%2F%2Fdiscord.gg%2FZ2bbRXwPxK">
+
 We're gearing up to launch more open-source contribution projects for the community! Join our Discord server to stay updated and get involved in building amazing open-source software that benefits everyone. 🌐💡
 <br><br>
 Let's code together, share knowledge, and make an impact on the tech world! 🚀👨‍💻👩‍💻
