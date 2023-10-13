@@ -11,7 +11,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-bongdevhq-white?style=flat-square&logo=x&logoColor=black&link=https://twitter.com/bongdevhq)](https://twitter.com/bongdevhq)
 [![Linkedin Badge](https://img.shields.io/badge/-bongdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/bongdev)](https://www.linkedin.com/company/bongdev)
 [![Instagram Badge](https://img.shields.io/badge/-bong.dev_official-red?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/bong.dev_official)](https://instagram.com/bong.dev_official)
-
+<br>
+[![An image of @bongdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bongdev)](https://holopin.io/@bongdev)
 </div>
 
 
